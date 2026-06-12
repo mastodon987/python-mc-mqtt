@@ -349,7 +349,7 @@ def on_connect(client, userdata, flags, rc):
     # -----------------------------------------------------------------------
     # Example: send "Example world" to #test right after connecting
     # -----------------------------------------------------------------------
-#    send_grp_txt(client, MQTT_TOPIC, "#test", "PythonGW", "Example world")
+    send_grp_txt(client, MQTT_TOPIC, "#test", "PythonBridge", "Example world")
 
 
 def on_message(client, userdata, msg):
