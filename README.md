@@ -1,4 +1,4 @@
-**Simple POC for communctaion MQTT<->Meshcore network.**
+**Simple POC for communication MQTT<->Meshcore network.**
 \
 \
 Example output during running console is:\
