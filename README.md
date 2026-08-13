@@ -23,4 +23,4 @@ Example output during running console is:\
 
 
 
-If data are not decrypted due to missing keys, then decypted segment is not printed.
+If data are not decrypted due to missing keys, then decrypted segment is not printed.
